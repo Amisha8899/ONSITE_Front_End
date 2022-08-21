@@ -1,0 +1,24 @@
+#top{
+    background-color: black;
+    color: white;
+    float: left;
+}
+.select{
+    background-color: #dddddd;
+}
+#whl{
+    display: grid;
+    grid-template-rows: 20px 200px;
+}
+#btm{
+    width: 500px;
+}
+#textArea{
+    font-family: sans-serif;
+    font-size: 8px;
+    color: black;
+    width: 1500px;
+}
+#btn1{
+    visibility: hidden;
+}
